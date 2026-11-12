@@ -1,0 +1,25 @@
+# Wails
+build/bin/
+frontend/dist/
+frontend/node_modules/
+wailsjs/
+
+# Go
+*.exe
+*.test
+*.out
+vendor/
+
+# Node
+node_modules/
+dist/
+*.log
+.env*
+
+# Universal
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+.idea/
+.vscode/
